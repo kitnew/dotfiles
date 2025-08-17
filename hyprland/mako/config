@@ -1,0 +1,13 @@
+font=JetBrainsMono Nerd Font 11, Noto Color Emoji 13
+background-color=#1e1e2e
+text-color=#cdd6f4
+border-color=#89b4fa
+border-size=2
+border-radius=6
+default-timeout=5000
+max-visible=5
+
+[mode=center-low]
+anchor=bottom-center
+outer-margin=0,0,200,0
+
